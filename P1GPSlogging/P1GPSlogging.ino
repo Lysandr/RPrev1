@@ -1,5 +1,5 @@
 /*
-   code by ******* ********* May 15, 2014 KC9UUS
+   code by ******* ********* May 15, 2014 
    
    This sample code demonstrates the normal use of a TinyGPS++ (TinyGPSPlus) object.
    It requires the use of SoftwareSerial, and assumes that you have a
